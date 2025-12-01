@@ -42,10 +42,10 @@ namespace MatrizGrafo
                 switch (opcao)
                 {
                     case 1:
-                        System.Console.Write("Digite a origem: ");
-                        int origem = int.Parse(System.Console.ReadLine());
-                        System.Console.Write("Digite o destino");
-                        int destino = int.Parse(System.Console.ReadLine());
+                        Console.Write("Digite a origem: ");
+                        int origem = int.Parse(Console.ReadLine());
+                        Console.Write("Digite o destino");
+                        int destino = int.Parse(Console.ReadLine());
                         meuGrafo.adicionarAresta(origem,destino);
                         break;
                     case 2:

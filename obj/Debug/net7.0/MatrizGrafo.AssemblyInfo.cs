@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatrizGrafo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95e4007f87ff6c92fbd1a973be443eb212c02861")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aff419af4cd1d0320763a1cb14693da6ba565b8")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatrizGrafo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatrizGrafo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

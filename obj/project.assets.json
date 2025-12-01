@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agabo\\Área de Trabalho\\2 Periodo\\Linguagem e Técnicas de Programação I\\Grafos\\MatrizGrafoAdjacenciaAtividade\\MatrizGrafo.csproj",
+      "projectUniqueName": "C:\\Users\\agabo\\Área de Trabalho\\2 Periodo\\Linguagem e Técnicas de Programação I\\Grafos\\MatrizGrafo.csproj",
       "projectName": "MatrizGrafo",
-      "projectPath": "C:\\Users\\agabo\\Área de Trabalho\\2 Periodo\\Linguagem e Técnicas de Programação I\\Grafos\\MatrizGrafoAdjacenciaAtividade\\MatrizGrafo.csproj",
+      "projectPath": "C:\\Users\\agabo\\Área de Trabalho\\2 Periodo\\Linguagem e Técnicas de Programação I\\Grafos\\MatrizGrafo.csproj",
       "packagesPath": "C:\\Users\\agabo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agabo\\Área de Trabalho\\2 Periodo\\Linguagem e Técnicas de Programação I\\Grafos\\MatrizGrafoAdjacenciaAtividade\\obj\\",
+      "outputPath": "C:\\Users\\agabo\\Área de Trabalho\\2 Periodo\\Linguagem e Técnicas de Programação I\\Grafos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\agabo\\AppData\\Roaming\\NuGet\\NuGet.Config",
